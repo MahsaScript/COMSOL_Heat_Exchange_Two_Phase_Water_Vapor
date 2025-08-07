@@ -1,0 +1,14 @@
+Dr 2.83e-2[m] Rod diameter
+Dp 8.37e-2[m] heater diameter
+Lp 0.0254[m] heater half-length
+Dd 0.1128[m] Damper outer diameter
+Hw 1.37e-2[m] Damper wall thickness
+Ld U0+Lp Damper seal position
+U0 0.1524[m] Damper chamber height
+T0 300[K] Initial temperature
+hwall 5[W/(m^2*K)] Heat transfer coefficient
+a0 U0-Lp heater displacement amplitude 
+f 0.4[Hz] Frequency
+ncycle 16 Number of loading cycles
+tmax ncycle/f Total loading time
+tstep 0.1/f Sampling time interval

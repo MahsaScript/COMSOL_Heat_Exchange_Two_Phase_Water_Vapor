@@ -1,0 +1,2 @@
+zlin1 zp(t)*(1+(Lp+Z)/(Ld-Lp)) Mesh deformation below heater
+zlin2 zp(t)*(Ld-Z)/(Ld-Lp) Mesh deformation above heater
